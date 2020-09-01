@@ -1,0 +1,482 @@
+Aarão Reis	 2.952 
+Acaba Mundo	 1.173 
+Acaiaca	 2.554 
+Ademar Maldonado	 1.803 
+Aeroporto	 1.325 
+Aguas Claras	 2.023 
+Alípio de Melo	 9.530 
+Alpes	 2.184 
+Alta Tensão 1ª Seção	 397 
+Alta Tensão 2ª Seção	 2.010 
+Alto Barroca	 5.209 
+Alto Caiçaras	 7.403 
+Alto das Antenas	 384 
+Alto dos Pinheiros	 3.191 
+Alto Vera Cruz	 21.444 
+Álvaro Camargos	 1.080 
+Ambrosina	 800 
+Anchieta	 12.720 
+Andiroba	 791 
+Antonio Ribeiro de Abreu 1ª Seção	 484 
+Aparecida	 9.804 
+Aparecida 7ª Seção	 4.917 
+Ápia	 405 
+Apolonia	 6.568 
+Araguaia	 14.635 
+Atila de Paiva	 1.207 
+Bacurau	 104 
+Bairro das Indústrias II	 1.033 
+Baleia	 -   
+Bandeirantes	 5.268 
+Barão Homem de Melo 1ª Seção	 1.899 
+Barão Homem de Melo 2ª Seção	 207 
+Barão Homem de Melo 3ª Seção	 189 
+Barreiro	 9.188 
+Barro Preto	 6.143 
+Barroca	 3.304 
+Beija Flor	 1.258 
+Beira Linha	 4.132 
+Bela Vitoria	 664 
+Belmonte	 2.232 
+Belvedere	 8.828 
+Bernadete	 1.515 
+Betânia	 12.024 
+Biquinhas	 1.671 
+Boa Esperança	 546 
+Boa União 1ª Seção	 309 
+Boa União 2ª Seção	 177 
+Boa Viagem	 4.437 
+Boa Vista	 17.556 
+Bom Jesus	 3.605 
+Bonfim	 4.445 
+Bonsucesso	 6.360 
+Brasil Industrial	 7.030 
+Braúnas	 1.936 
+Buraco Quente	 999 
+Buritis	 29.374 
+Cabana do Pai Tomás	 17.994 
+Cachoeirinha	 9.128 
+Caetano Furquim	 370 
+Caiçara - Adelaide	 10.789 
+Caiçaras	 13.060 
+Calafate	 7.427 
+Califórnia	 6.076 
+Camargos	 13.047 
+Campo Alegre	 2.774 
+Camponesa 1ª Seção	 122 
+Camponesa 2ª Seção	 236 
+Canaa	 2.614 
+Canadá	 492 
+Candelaria	 7.459 
+Capitão Eduardo	 1.191 
+Cardoso	 10.538 
+Carlos Prates	 15.169 
+Carmo	 3.813 
+Casa Branca	 6.338 
+Castanheira	 5.650 
+Castelo	 17.056 
+CDI Jatoba	 169 
+Cenaculo	 2.273 
+Centro	 16.199 
+Céu Azul	 23.793 
+Chácara Leonina	 434 
+Cidade Jardim	 1.466 
+Cidade Jardim Taquaril	 173 
+Cidade Nova	 15.368 
+Cinquentenário	 5.456 
+Colégio Batista	 10.063 
+Comiteco	 1.738 
+Concórdia	 10.622 
+Cônego Pinheiro 1ª Seção	 446 
+Cônego Pinheiro 2ª Seção	 43 
+Confisco	 4.283 
+Conjunto Bonsucesso	 1.030 
+Conjunto Califórnia I	 3.347 
+Conjunto Califórnia II	 1.737 
+Conjunto Capitão Eduardo	 2.781 
+Conjunto Celso Machado	 2.696 
+Conjunto Floramar	 916 
+Conjunto Jardim Filadélfia	 3.002 
+Conjunto Jatoba	 3.687 
+Conjunto Lagoa	 662 
+Conjunto Minas Caixa	 4.421 
+Conjunto Novo Dom Bosco	 704 
+Conjunto Paulo VI	 3.228 
+Conjunto Providencia	 252 
+Conjunto Santa Maria	 1.127 
+Conjunto São Francisco de Assis	 300 
+Conjunto Serra Verde	 240 
+Conjunto Taquaril	 14.977 
+Copacabana	 13.293 
+Coqueiros	 7.648 
+Coração de Jesus	 5.812 
+Coração Eucarístico	 7.609 
+Corumbiara	 952 
+Cruzeiro	 8.135 
+Custodinha	 319 
+das Industrias I	 9.066 
+Delta	 954 
+Diamante	 11.916 
+Distrito Industrial do Jatoba	 644 
+Dom Bosco	 9.695 
+Dom Cabral	 4.177 
+Dom Joaquim	 3.279 
+Dom Silverio	 4.195 
+Dona Clara	 8.839 
+Embaúbas	 1.809 
+Engenho Nogueira	 1.363 
+Ermelinda	 3.432 
+Ernesto Nascimento	 2.142 
+Esperança	 2.146 
+Esplanada	 8.199 
+Estoril	 4.522 
+Estrela	 1.591 
+Estrela do Oriente	 4.706 
+Etelvina Carneiro	 2.331 
+Europa	 10.065 
+Eymard	 3.947 
+Fazendinha	 3.715 
+Fernão Dias	 4.183 
+Flamengo	 328 
+Flavio De Oliveira	 2.872 
+Flavio Marques Lisboa	 7.859 
+Floramar	 9.624 
+Floresta	 11.728 
+Frei Leopoldo	 1.986 
+Funcionários	 8.800 
+Gameleira	 300 
+Garças	 930 
+Glória	 14.627 
+Goiania	 16.229 
+Graça	 4.792 
+Grajaú	 6.257 
+Granja de Freitas	 3.602 
+Granja Werneck	 1.995 
+Grota	 195 
+Grotinha	 447 
+Guarani	 7.717 
+Guaratã	 766 
+Gutierrez	 17.469 
+Havaí	 15.235 
+Heliopolis	 6.660 
+Horto	 3.330 
+Horto Florestal	 5.937 
+Inconfidência	 3.457 
+Indaiá	 3.288 
+Independência	 8.334 
+Ipe	 4.687 
+Ipiranga	 12.082 
+Itaipu	 8.676 
+Itapoa	 9.475 
+Itatiaia	 1.772 
+Jaqueline	 16.180 
+Jaraguá	 4.051 
+Jardim Alvorada	 9.909 
+Jardim América	 11.145 
+Jardim Atlântico	 1.439 
+Jardim do Vale	 1.117 
+Jardim dos Comerciarios	 21.226 
+Jardim Felicidade	 15.477 
+Jardim Guanabara	 11.612 
+Jardim Leblon	 9.357 
+Jardim Montanhês	 5.949 
+Jardim São José	 6.964 
+Jardim Vitoria	 9.534 
+Jardinópolis	 1.724 
+Jatobá	 3.447 
+João Alfredo	 391 
+João Paulo II	 1.792 
+João Pinheiro	 9.588 
+Jonas Veiga	 2.576 
+Juliana	 5.892 
+Lagoa	 9.119 
+Lagoinha	 3.810 
+Lagoinha Leblon	 5.973 
+Lajedo	 4.862 
+Laranjeiras	 163 
+Leonina	 3.665 
+Leticia	 7.715 
+Liberdade	 4.477 
+Lindéia	 24.093 
+Lorena	 91 
+Lourdes	 18.860 
+Luxemburgo	 6.412 
+Madre Gertrudes	 4.423 
+Madri	 939 
+Mala e Cuia	 60 
+Manacas	 8.248 
+Mangabeiras	 1.947 
+Mangueiras	 3.467 
+Mantiqueira	 20.282 
+Marajó	 2.876 
+Maravilha	 56 
+Marçola	 6.556 
+Maria Goretti	 8.501 
+Maria Helena	 7.683 
+Maria Tereza	 373 
+Maria Virgínia	 3.832 
+Mariano de Abreu	 3.541 
+Marieta 1ª Seção	 1.227 
+Marieta 2ª Seção	 181 
+Marieta 3ª Seção	 96 
+Marilandia	 865 
+Mariquinhas	 2.147 
+Marmiteiros	 785 
+Milionario	 12.159 
+Minas Brasil	 3.511 
+Minas Caixa	 10.592 
+Minaslandia	 6.452 
+Mineirão	 4.235 
+Miramar	 6.124 
+Mirante	 565 
+Mirtes	 346 
+Monsenhor Messias	 4.451 
+Monte Azul	 3.494 
+Monte São José	 1.111 
+Morro dos Macacos	 340 
+Nazare	 8.182 
+Nossa Senhora Aparecida	 1.603 
+Nossa Senhora da Aparecida	 4.341 
+Nossa Senhora da Conceição	 6.218 
+Nossa Senhora de Fátima	 9.640 
+Nossa Senhora do Rosário	 173 
+Nova America	 99 
+Nova Cachoeirinha	 4.729 
+Nova Cintra	 5.664 
+Nova Esperança	 4.426 
+Nova Floresta	 4.496 
+Nova Gameleira	 9.441 
+Nova Granada	 5.979 
+Nova Pampulha	 350 
+Nova Suíça	 15.177 
+Nova Vista	 8.409 
+Novo Aarão Reis	 8.287 
+Novo das Industrias	 4.601 
+Novo Glória	 7.848 
+Novo Ouro Preto	 502 
+Novo Santa Cecilia	 2.355 
+Novo São Lucas	 3.911 
+Novo Tupi	 3.048 
+Oeste	 3.771 
+Olaria	 5.776 
+Olhos D'Água	 1.465 
+Ouro Minas	 4.143 
+Ouro Preto	 16.742 
+Padre Eustáquio	 28.651 
+Palmares	 5.521 
+Palmeiras	 7.653 
+Pantanal	 919 
+Paquetá	 6.379 
+Paraíso	 13.387 
+Parque São José	 3.183 
+Parque São Pedro	 2.303 
+Paulo VI	 6.205 
+Pedreira Padro Lopes	 4.453 
+Penha	 2.226 
+Petropolis	 2.143 
+Pilar	 2.930 
+Pindorama	 17.575 
+Pindura Saia	 153 
+Piraja	 3.231 
+Piratininga	 21.136 
+Pirineus	 636 
+Planalto	 16.582 
+Pompéia	 5.572 
+Pongelupe	 2.680 
+Pousada Santo Antonio	 1.629 
+Prado	 13.759 
+Primeiro de Maio	 2.421 
+Providencia	 7.960 
+Renascença	 8.867 
+Ribeiro de Abreu	 16.010 
+Rio Branco	 12.768 
+Sagrada Família	 34.389 
+Salgado Filho	 14.604 
+Santa Amelia	 18.185 
+Santa Branca	 5.346 
+Santa Cecilia	 2.916 
+Santa Cruz	 22.294 
+Santa Efigênia	 17.537 
+Santa Helena	 5.356 
+Santa Inês	 9.167 
+Santa Isabel	 139 
+Santa Lúcia	 7.225 
+Santa Margarida	 2.306 
+Santa Maria	 7.072 
+Santa Monica	 23.829 
+Santa Rita	 2.790 
+Santa Rita de Cássia	 6.082 
+Santa Rosa	 6.722 
+Santa Sofia	 2.782 
+Santa Tereza	 15.526 
+Santa Terezinha	 15.774 
+Santana do Cafezal	 4.078 
+Santo Agostinho	 9.871 
+Santo André	 7.365 
+Santo Antônio	 21.611 
+São Benedito	 1.597 
+São Bento	 3.687 
+São Bernardo	 9.090 
+São Cristóvão	 2.974 
+São Damião	 320 
+São Francisco	 4.327 
+São Francisco das Chagas	 1.346 
+São Gabriel	 13.726 
+São Geraldo	 13.927 
+São Gonçalo	 2.592 
+São João	 1.686 
+São João Batista	 16.485 
+São Jorge 1ª Seção	 1.723 
+São Jorge 2ª Seção	 2.710 
+São Jorge 3ª Seção	 2.851 
+São José	 1.522 
+São Lucas	 2.903 
+São Luiz	 4.612 
+São Marcos	 6.925 
+São Paulo	 3.741 
+São Pedro	 6.315 
+São Salvador	 5.839 
+São Sebastião	 356 
+São Tomaz	 7.415 
+São Vicente	 505 
+Satelite	 481 
+Saudade	 4.873 
+Savassi	 11.747 
+Senhor dos Passos	 2.849 
+Serra	 20.171 
+Serra do Curral	 327 
+Serra Verde	 13.955 
+Serrano	 9.971 
+Silveira	 5.800 
+Sion	 19.668 
+Solar do Barreiro	 4.385 
+Solimoes	 1.519 
+Sport Club	 1.071 
+Sumaré	 -   
+Suzana	 1.986 
+Taquaril	 3.389 
+Teixeira Dias	 7.047 
+Tiradentes	 1.661 
+Tirol	 11.372 
+Tres Marias	 587 
+Trevo	 4.250 
+Túnel de Ibirité	 1.894 
+Tupi A	 10.658 
+Tupi B	 13.527 
+União	 14.708 
+Unidas	 367 
+Universitário	 1.995 
+Universo	 2.833 
+Urca	 4.685 
+Vale do Jatoba	 8.047 
+Varzea da Palma	 125 
+Venda Nova	 2.630 
+Ventosa	 7.055 
+Vera Cruz	 3.833 
+Vila Aeroporto	 2.092 
+Vila Aeroporto Jaraguá	 618 
+Vila Antena	 1.600 
+Vila Antena Montanhês	 448 
+Vila Atila de Paiva	 1.582 
+Vila Bandeirantes	 562 
+Vila Barragem Santa Lúcia	 7.999 
+Vila Batik	 192 
+Vila Betânia	 182 
+Vila Boa Vista	 958 
+Vila Calafate	 529 
+Vila Califórnia	 3.100 
+Vila Canto do Sabiá	 173 
+Vila Cemig	 5.668 
+Vila Cloris	 7.141 
+Vila Copacabana	 1.348 
+Vila Copasa	 321 
+Vila Coqueiral	 1.533 
+Vila da Amizade	 402 
+Vila da Ária	 337 
+Vila da Luz	 1.491 
+Vila da Paz	 534 
+Vila das Oliveiras	 241 
+Vila de Sá	 971 
+Vila do Pombal	 142 
+Vila dos Anjos	 808 
+Vila Ecológica	 1.704 
+Vila Engenho Nogueira	 263 
+Vila Esplanada	 990 
+Vila Formosa	 1.444 
+Vila Fumec	 72 
+Vila Havaí	 347 
+Vila Independencia 1ª Seção	 3.023 
+Vila Independencia 2ª Seção	 980 
+Vila Independencia 3ª Seção	 368 
+Vila Inestan	 701 
+Vila Ipiranga	 187 
+Vila Jardim Alvorada	 2.776 
+Vila Jardim Leblon	 225 
+Vila Jardim Montanhes	 259 
+Vila Jardim São José	 1.698 
+Vila Madre Gertrudes 1ª Seção	 1.930 
+Vila Madre Gertrudes 2ª Seção	 666 
+Vila Madre Gertrudes 3ª Seção	 417 
+Vila Madre Gertrudes 4ª Seção	 201 
+Vila Maloca	 663 
+Vila Mangueiras	 1.903 
+Vila Mantiqueira	 711 
+Vila Maria	 5.308 
+Vila Minaslandia	 856 
+Vila Nossa Senhora do Rosário	 673 
+Vila Nova	 591 
+Vila Nova Cachoeirinha 1ª Seção	 2.273 
+Vila Nova Cachoeirinha 2ª Seção	 145 
+Vila Nova Cachoeirinha 3ª Seção	 698 
+Vila Nova dos Milionarios	 587 
+Vila Nova Gameleira 1ª Seção	 819 
+Vila Nova Gameleira 2ª Seção	 1.399 
+Vila Nova Gameleira 3ª Seção	 95 
+Vila Nova Paraíso	 704 
+Vila Novo São Lucas	 3.677 
+Vila Oeste	 1.339 
+Vila Olhos D'Água	 892 
+Vila Ouro Minas	 588 
+Vila Paquetá	 703 
+Vila Paraíso	 414 
+Vila Paris	 3.558 
+Vila Petropolis	 298 
+Vila Pilar	 910 
+Vila Pinho	 8.225 
+Vila Piratininga	 1.693 
+Vila Piratininga Venda Nova	 366 
+Vila Primeiro de Maio	 4.025 
+Vila Puc	 89 
+Vila Real 1ª Seção	 109 
+Vila Real 2ª Seção	 683 
+Vila Rica	 199 
+Vila Santa Monica 1ª Seção	 1.789 
+Vila Santa Monica 2ª Seção	 343 
+Vila Santa Rosa	 1.391 
+Vila Santo Antônio	 335 
+Vila Santo Antônio Barroquinha	 667 
+Vila São Dimas	 194 
+Vila São Francisco	 69 
+Vila São Gabriel	 420 
+Vila São Gabriel Jacui	 699 
+Vila São Geraldo	 182 
+Vila São João Batista	 2.486 
+Vila São Paulo	 1.898 
+Vila São Rafael	 1.185 
+Vila Satélite	 128 
+Vila Sesc	 343 
+Vila Sumaré	 2.987 
+Vila Suzana Primeira Seção	 646 
+Vila Suzana Segunda Seção	 60 
+Vila Tirol	 208 
+Vila Trinta e Um de Março	 1.525 
+Vila União	 760 
+Vila Vista Alegre	 11.413 
+Virgínia	 861 
+Vista Alegre	 5.155 
+Vista do Sol	 5.121 
+Vitoria	 3.407 
+Vitoria da Conquista	 1.184 
+Xangri-lá	 -   
+Xodo-Marize	 1.499 
+Zilah Sposito	 2.638 
